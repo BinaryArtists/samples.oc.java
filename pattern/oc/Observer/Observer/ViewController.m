@@ -1,18 +1,18 @@
 //
 //  ViewController.m
-//  9观察者模式
+//  Observer
 //
 //  Created by yifan on 15/8/13.
-//  Copyright (c) 2015年 黄成都. All rights reserved.
+//  Copyright (c) 2015年 fallenink. All rights reserved.
 //
 
 #import "ViewController.h"
-#import "HCDObserver.h"
-#import "HCDNBAObserver.h"
-#import "HCDStockObserver.h"
-#import "HCDSecreteSubject.h"
+#import "Observer.h"
+#import "NBAObserver.h"
+#import "StockObserver.h"
+#import "ConcreteSubject.h"
 
-typedef id<HCDObserver> HCDObserver;
+typedef id<Observer> Observer;
 
 @interface ViewController ()
 
@@ -23,14 +23,25 @@ typedef id<HCDObserver> HCDObserver;
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    HCDSubject *subject = [[HCDSecreteSubject alloc]init];
+    /**
+     iOS api 或 第三方火爆库，提供的观察者模式
+     
+     1. KVO
+     2. ReactCocoa
+     */
+    
+    Subject *subject = [[ConcreteSubject alloc]init];
+    
     //添加三个通知对象
-    HCDObserver nbaobserver = [[HCDNBAObserver alloc]init];
+    Observer nbaobserver = [[NBAObserver alloc]init];
     [subject attach:nbaobserver];
-    HCDObserver stockobserver = [[HCDStockObserver alloc]init];
+    
+    Observer stockobserver = [[StockObserver alloc]init];
     [subject attach:stockobserver];
-    HCDObserver stockobserver1 = [[HCDStockObserver alloc]init];
+    
+    Observer stockobserver1 = [[StockObserver alloc]init];
     [subject attach:stockobserver1];
+    
     //删除一个通知对象
     [subject detach:stockobserver];
     

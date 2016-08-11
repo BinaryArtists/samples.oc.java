@@ -1,8 +1,9 @@
 ## 模式
 
 感谢：
-1. [huang303513/Design-Pattern-For-iOS](https://github.com/huang303513/Design-Pattern-For-iOS)
-2. 
+	1. [huang303513/Design-Pattern-For-iOS](https://github.com/huang303513/Design-Pattern-For-iOS)
+	2. [leichunfeng/DesignPatterns-Objective-C](https://github.com/leichunfeng/DesignPatterns-Objective-C)
+	3. [boai/BABaseProject](https://github.com/boai/BABaseProject)
 
 ### 常用的 23 种设计模式
 

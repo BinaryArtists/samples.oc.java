@@ -1,5 +1,5 @@
 //
-//  HCDSecreteSubject.h
+//  SecreteSubject.h
 //  Observer
 //
 //  Created by yifan on 15/8/13.

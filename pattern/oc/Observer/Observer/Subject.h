@@ -1,5 +1,5 @@
 //
-//  HCDSubject.h
+//  Subject.h
 //  Observer
 //
 //  Created by yifan on 15/8/13.
@@ -7,12 +7,14 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "HCDObserver.h"
-@interface HCDSubject : NSObject
-//这里很不合理，不知怎么办
-//@property(nonatomic,readwrite,strong)NSMutableArray *observerList;
--(void)attach:(id<HCDObserver>)observer;
--(void)detach:(id<HCDObserver>)observer;
--(void)notify;
--(NSArray *)getobserverList;
+
+#import "Observer.h"
+
+@interface Subject : NSObject
+
+- (void)attach:(id<Observer>)observer;
+- (void)detach:(id<Observer>)observer;
+- (void)notify;
+- (NSArray *)getobserverList;
+
 @end

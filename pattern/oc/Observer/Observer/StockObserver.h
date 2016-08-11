@@ -1,5 +1,5 @@
 //
-//  HCDStockObserver.h
+//  StockObserver.h
 //  Observer
 //
 //  Created by yifan on 15/8/13.
@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "HCDObserver.h"
-@interface HCDStockObserver : NSObject<HCDObserver>
+
+#import "Observer.h"
+
+@interface StockObserver : NSObject<Observer>
 
 @end

@@ -1,5 +1,5 @@
 //
-//  HCDNBAObserver.h
+//  NBAObserver.h
 //  Observer
 //
 //  Created by yifan on 15/8/13.
@@ -7,7 +7,9 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "HCDObserver.h"
-@interface HCDNBAObserver : NSObject<HCDObserver>
+
+#import "Observer.h"
+
+@interface NBAObserver : NSObject<Observer>
 
 @end

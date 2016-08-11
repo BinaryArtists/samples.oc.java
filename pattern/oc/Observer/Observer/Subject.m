@@ -1,20 +1,23 @@
 //
-//  HCDSubject.m
+//  Subject.m
 //  Observer
 //
 //  Created by yifan on 15/8/13.
 //  Copyright (c) 2015年 fallenink. All rights reserved.
 //
 
-#import "HCDSubject.h"
+#import "Subject.h"
 
-@interface HCDSubject ()
-@property(nonatomic,readwrite,strong)NSMutableArray *observerList;
+@interface Subject ()
+
+@property(nonatomic, readwrite, strong) NSMutableArray *observerList;
+
 @end
 
 
-@implementation HCDSubject
--(instancetype)init{
+@implementation Subject
+
+- (instancetype)init {
     self = [super init];
     if (self) {
         _observerList = [NSMutableArray array];
@@ -22,20 +25,23 @@
     return self;
 }
 
--(void)attach:(id<HCDObserver>)observer{
+- (void)attach:(id<Observer>)observer {
     [self.observerList addObject:observer];
 }
--(void)detach:(id<HCDObserver>)observer{
-    for (id<HCDObserver> currentObserver in [self getobserverList]) {
+
+- (void)detach:(id<Observer>)observer {
+    for (id<Observer> currentObserver in [self getobserverList]) {
         if (currentObserver == observer) {
             [self.observerList removeObject:observer];
         }
     }
 }
--(NSMutableArray *)getobserverList{
+
+- (NSMutableArray *)getobserverList {
     return [NSMutableArray arrayWithArray:self.observerList];
 }
--(void)notify{
+
+- (void)notify {
     
 }
 @end

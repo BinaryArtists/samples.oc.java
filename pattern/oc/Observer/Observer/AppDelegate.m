@@ -1,9 +1,9 @@
 //
 //  AppDelegate.m
-//  9观察者模式
+//  Observer
 //
 //  Created by yifan on 15/8/13.
-//  Copyright (c) 2015年 黄成都. All rights reserved.
+//  Copyright (c) 2015年 fallenink. All rights reserved.
 //
 
 #import "AppDelegate.h"

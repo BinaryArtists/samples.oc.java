@@ -1,5 +1,5 @@
 //
-//  HCDObserver.h
+//  Observer.h
 //  Observer
 //
 //  Created by yifan on 15/8/13.
@@ -8,7 +8,9 @@
 
 #import <Foundation/Foundation.h>
 
-@protocol HCDObserver <NSObject>
+@protocol Observer <NSObject>
+
 @optional
--(void)update;
+- (void)update;
+
 @end
