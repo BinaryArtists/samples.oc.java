@@ -5,6 +5,9 @@
 	2. [leichunfeng/DesignPatterns-Objective-C](https://github.com/leichunfeng/DesignPatterns-Objective-C)
 	3. [boai/BABaseProject](https://github.com/boai/BABaseProject)
 
+还要关注
+	1. [反面模式（Anti-pattern）](http://www.cnblogs.com/QQParadise/archive/2011/11/16/2250997.html)
+
 ### 常用的 23 种设计模式
 
 ```
