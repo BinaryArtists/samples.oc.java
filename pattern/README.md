@@ -47,6 +47,21 @@
 合成/聚合复用原则（CARP），尽量使用合成/聚合，尽量不要使用类继承。
 ```
 
+### oc 设计模式例子与叙述
+
+	* [Facade](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Facade)
+	* [Observer](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Observer)
+	* [Singleton](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Singleton)
+	* [State](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/State)
+	* [Visitor](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Visitor)
+
+### java 综合例子
+
+	* [async-mvc](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/ex/async-mvc)
+		> Model中使用Observer模式。
+		> Controller的控制行为采用State模式（ReadyState，UpdatingState）。
+		> 当前不讨论，架构模式.
+
 ### iOS
 
 1. [Cocoa如何应用设计模式](http://www.cnblogs.com/pengyingh/articles/2346299.html)
