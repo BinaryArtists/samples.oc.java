@@ -49,18 +49,18 @@
 
 ### oc 设计模式例子与叙述
 
-	* [Facade](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Facade)
-	* [Observer](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Observer)
-	* [Singleton](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Singleton)
-	* [State](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/State)
-	* [Visitor](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Visitor)
+* [Facade](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Facade)
+* [Observer](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Observer)
+* [Singleton](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Singleton)
+* [State](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/State)
+* [Visitor](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Visitor)
 
 ### java 综合例子
 
-	* [async-mvc](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/ex/async-mvc)
-		> Model中使用Observer模式。
-		> Controller的控制行为采用State模式（ReadyState，UpdatingState）。
-		> 当前不讨论，架构模式.
+* [async-mvc](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/ex/async-mvc)
+	> Model中使用Observer模式。
+	> Controller的控制行为采用State模式（ReadyState，UpdatingState）。
+	> 当前不讨论，架构模式.
 
 ### iOS
 
