@@ -6,6 +6,12 @@
 	* [被误解的MVC和被神化的MVVM](http://kb.cnblogs.com/page/532236/)
 	* [一个简单登陆示例的MVC和MVP实现](http://blog.csdn.net/cloudybird/article/details/51190596)
 
+### 提问？
+
+	* 为什么会出现 MVC，为什么演变出MVP？
+	* 如何来聊 三层架构？
+
+
 ### 干净架构
 
 	* 参考：
