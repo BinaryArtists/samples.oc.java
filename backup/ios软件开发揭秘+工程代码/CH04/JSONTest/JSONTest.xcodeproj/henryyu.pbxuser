@@ -1,0 +1,186 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* JSONTest */ = {
+		activeExec = 0;
+		executables = (
+			8FF8C36F128455F700980C35 /* JSONTest */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FF8C36F128455F700980C35 /* JSONTest */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* JSONTest */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* JSONTest */,
+		);
+		codeSenseManager = 8FF8C37F128455FE00980C35 /* Code sense */;
+		executables = (
+			8FF8C36F128455F700980C35 /* JSONTest */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					563,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					523,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312205395;
+			PBXWorkspaceStateSaveDate = 312205395;
+		};
+		perUserProjectItems = {
+			8F14AE0F1287F2BD0052A8E1 /* PBXTextBookmark */ = 8F14AE0F1287F2BD0052A8E1 /* PBXTextBookmark */;
+			8F3C014412851E2000B1F24F /* PlistBookmark */ = 8F3C014412851E2000B1F24F /* PlistBookmark */;
+			8FF3E84A129BE067008EC107 /* PBXTextBookmark */ = 8FF3E84A129BE067008EC107 /* PBXTextBookmark */;
+			8FF8C4781284583600980C35 /* PlistBookmark */ = 8FF8C4781284583600980C35 /* PlistBookmark */;
+		};
+		sourceControlManager = 8FF8C37E128455FE00980C35 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {741, 507}}";
+			sepNavSelRange = "{874, 42}";
+			sepNavVisRange = "{0, 1053}";
+			sepNavWindowFrame = "{{15, 59}, {863, 687}}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* JSONTest_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {804, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 185}";
+			sepNavWindowFrame = "{{15, 59}, {863, 687}}";
+		};
+	};
+	8F14AE0F1287F2BD0052A8E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 28";
+		rLen = 42;
+		rLoc = 874;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 0;
+	};
+	8F3C014412851E2000B1F24F /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8FF8C5E7128462A500980C35 /* data.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = /Users/henryyu/Desktop/JSONTest/data.plist;
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8FF3E84A129BE067008EC107 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 28";
+		rLen = 42;
+		rLoc = 874;
+		rType = 0;
+		vrLen = 1053;
+		vrLoc = 0;
+	};
+	8FF8C36F128455F700980C35 /* JSONTest */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = JSONTest;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FF8C37E128455FE00980C35 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FF8C37F128455FE00980C35 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FF8C4781284583600980C35 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* JSONTest-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/henryyu/Desktop/JSONTest/JSONTest-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8FF8C5E7128462A500980C35 /* data.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2280, 478}}";
+			sepNavSelRange = "{530, 0}";
+			sepNavVisRange = "{0, 530}";
+		};
+	};
+}

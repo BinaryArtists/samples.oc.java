@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LANGUAGE</key>
+    <string>TIẾNG</string>		
+	<key>Back</key>
+	<string>Back</string>
+	<key>Search</key>
+	<string>Tim</string>
+	<key>view entire collection</key>
+	<string>xem toàn bộ mẫu hàng</string>
+	<key>LINGERIE</key>
+	<string>Y PHUC LOTN</string>
+	<key>EYELASHES</key>
+	<string>LÔNG MI GIA</string>
+	<key>CATEGORIES</key>
+	<string>THÊ LOAI</string>
+	<key>ABOUT US</key>
+	<string>T GII THIÊU</string>	   	
+</dict>
+</plist>

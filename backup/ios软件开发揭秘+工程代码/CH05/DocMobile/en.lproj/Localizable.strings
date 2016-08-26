@@ -1,0 +1,22 @@
+"LoginTitle" = "Login";
+"LoginExplain" = "Login View";
+
+"SplashTitle" = "Splash";
+"SplashExplain" = "Splash View";
+
+"AdvancedSearchTitle" = "AdvancedSearch";
+"AdvancedSearchExplain" = "AdvancedSearch View";
+
+"StatisticsTitle" = "Statistics";
+"StatisticsExplain" = "Statistics";
+
+"DocumentDetailTitle" = "DocumentDetail";
+"DocumentDetailExplain" = "DocumentDetail";
+
+"AddTitle" = "Add";
+"StyleTitle" = "Style";
+
+"DefaultTitle" = "Default";
+"BlackOpaqueTitle" = "Black-Op";
+"BlackTranslucentTitle" = "Black-Trans";
+"RedTitleTitle" = "Red";

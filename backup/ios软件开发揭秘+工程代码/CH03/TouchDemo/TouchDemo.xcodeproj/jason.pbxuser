@@ -1,0 +1,238 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ControlDemoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {815, 800}}";
+			sepNavSelRange = "{380, 0}";
+			sepNavVisRange = "{181, 371}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ControlDemo */ = {
+		activeExec = 0;
+		executables = (
+			9681F4EC0DF70E1C00DF9DF0 /* ControlDemo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ControlDemoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {656, 725}}";
+			sepNavSelRange = "{546, 0}";
+			sepNavVisRange = "{149, 406}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ControlDemoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1211, 2425}}";
+			sepNavSelRange = "{3672, 0}";
+			sepNavVisRange = "{3148, 550}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 9681F4EC0DF70E1C00DF9DF0 /* ControlDemo */;
+		activeSDKPreference = iphoneos2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ControlDemo */;
+		breakpoints = (
+			96EFA9110DF7338700427FDA /* ControlDemoViewController.m:39 */,
+			96EFA9260DF734FC00427FDA /* ControlDemoViewController.m:39 */,
+		);
+		codeSenseManager = 9681F4F50DF70E2200DF9DF0 /* Code sense */;
+		executables = (
+			9681F4EC0DF70E1C00DF9DF0 /* ControlDemo */,
+		);
+		perUserDictionary = {
+			"PBXConfiguration.PBXBreakpointsDataSource.v1:1CA1AED706398EBD00589147" = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXBreakpointsDataSource_BreakpointID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					20,
+					198,
+					20,
+					99,
+					99,
+					29,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXBreakpointsDataSource_ActionID,
+					PBXBreakpointsDataSource_TypeID,
+					PBXBreakpointsDataSource_BreakpointID,
+					PBXBreakpointsDataSource_UseID,
+					PBXBreakpointsDataSource_LocationID,
+					PBXBreakpointsDataSource_ConditionID,
+					PBXBreakpointsDataSource_IgnoreCountID,
+					PBXBreakpointsDataSource_ContinueID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					478,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					324,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 248132540;
+			PBXWorkspaceStateSaveDate = 248132540;
+		};
+		perUserProjectItems = {
+			9652D73D0ECA346C00938637 /* PBXTextBookmark */ = 9652D73D0ECA346C00938637 /* PBXTextBookmark */;
+			9652D73F0ECA346C00938637 /* PBXTextBookmark */ = 9652D73F0ECA346C00938637 /* PBXTextBookmark */;
+			9652D7400ECA346C00938637 /* PBXTextBookmark */ = 9652D7400ECA346C00938637 /* PBXTextBookmark */;
+			9652D7420ECA35BC00938637 /* PBXTextBookmark */ = 9652D7420ECA35BC00938637 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 9681F4F40DF70E2200DF9DF0 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	9652D73D0ECA346C00938637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ControlDemoViewController.h */;
+		name = "ControlDemoViewController.h: 25";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 149;
+	};
+	9652D73F0ECA346C00938637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ControlDemoViewController.h */;
+		name = "ControlDemoViewController.h: 25";
+		rLen = 0;
+		rLoc = 546;
+		rType = 0;
+		vrLen = 406;
+		vrLoc = 149;
+	};
+	9652D7400ECA346C00938637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ControlDemoViewController.m */;
+		name = "ControlDemoViewController.m: 93";
+		rLen = 0;
+		rLoc = 3672;
+		rType = 0;
+		vrLen = 482;
+		vrLoc = 3216;
+	};
+	9652D7420ECA35BC00938637 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ControlDemoViewController.m */;
+		name = "ControlDemoViewController.m: 93";
+		rLen = 0;
+		rLoc = 3672;
+		rType = 0;
+		vrLen = 550;
+		vrLoc = 3148;
+	};
+	9681F4EC0DF70E1C00DF9DF0 /* ControlDemo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ControlDemo;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	9681F4F40DF70E2200DF9DF0 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	9681F4F50DF70E2200DF9DF0 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	96EFA9110DF7338700427FDA /* ControlDemoViewController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ControlDemoViewController.m */;
+		functionName = "-touchDown";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = ControlDemo;
+		modificationTime = 234304824.596932;
+		state = 2;
+	};
+	96EFA9260DF734FC00427FDA /* ControlDemoViewController.m:39 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 28D7ACF70DDB3853001CB0EB /* ControlDemoViewController.m */;
+		functionName = "-animationDidStop:finished:context:";
+		hitCount = 1;
+		ignoreCount = 0;
+		lineNumber = 39;
+		location = ControlDemo;
+		modificationTime = 234304835.889883;
+		state = 2;
+	};
+}

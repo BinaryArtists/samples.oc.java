@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LANGUAGE</key>
+    <string>Язык</string>		
+	<key>Back</key>
+	<string>Back</string>
+	<key>Search</key>
+	<string>поиск</string>
+	<key>view entire collection</key>
+	<string>Посмотреть всю коллекцию</string>
+	<key>LINGERIE</key>
+	<string>Нижнее дамское белье</string>
+	<key>EYELASHES</key>
+	<string>Ресницы</string>
+	<key>CATEGORIES</key>
+	<string>Категории</string>
+	<key>ABOUT US</key>
+	<string>O Hac</string>		   	
+</dict>
+</plist>

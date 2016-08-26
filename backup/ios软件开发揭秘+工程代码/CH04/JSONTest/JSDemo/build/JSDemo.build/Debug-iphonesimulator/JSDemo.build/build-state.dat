@@ -1,0 +1,541 @@
+TJSDemo
+v7
+r0
+t312017718.753201
+cCheck dependencies
+cProcessInfoPlistFile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist JSDemo-Info.plist
+cCompileXIB /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/JSDemo.app/map.png map.png
+cCpResource build/Debug-iphonesimulator/JSDemo.app/flag-australia.png flag-australia.png
+cProcessPCH /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch.gch JSDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo normal i386
+cGenerateDSYMFile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+cPBXCp build/Debug-iphonesimulator/JSDemo.app/welcome.html welcome.html
+cTouch /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C494D260000000000000110
+t1279872294
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/usr/include/objc/runtime.h
+c000000004BD1FE3C00000000000053F9
+t1272053308
+s21497
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C90D98A0000000000000132
+t1284561290
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/objc/runtime.h
+c000000004BFDF9F400000000000053F9
+t1274935796
+s21497
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.h
+c000000004CD7AB0A000000000000012F
+t1289202442
+s303
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m
+c000000004CD7AC580000000000000341
+t1289202776
+s833
+i"AppDelegate.h"
+i"WebAgentView.h"
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.h
+c000000004CD7F7DB0000000000000174
+t1289222107
+s372
+i<Foundation/Foundation.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m
+c000000004CE8CBF90000000000001093
+t1290324985
+s4243
+i"WebAgentView.h"
+i<objc/runtime.h>
+i"AppDelegate.h"
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/JSDemo_Prefix.pch
+c000000004CD7A8AD00000000000000B5
+t1289201837
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/MainWindow.xib
+c000000004CD7AA130000000000003F8C
+t1289202195
+s16268
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+t1290324918
+s306
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM
+t1290324918
+s102
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist
+t1289302250
+s587
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+t1290324918
+s21936
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/MainWindow.nib
+t1289302251
+s977
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/PkgInfo
+t1289302250
+s8
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/flag-australia.png
+t1289302250
+s8931
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/map.png
+t1289302250
+s83570
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/welcome.html
+t1290324784
+s1546
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o
+t1290324783
+s20380
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/JSDemo.LinkFileList
+c000000004CE8CB2E00000000000001BC
+t1290324782
+s444
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o
+t1290324918
+s32376
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o
+t1290324783
+s6348
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/flag-australia.png
+c000000004C13557D00000000000022E3
+t1276335485
+s8931
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m
+c000000004CD7E19C000000000000015E
+t1289216412
+s350
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/map.png
+c000000004CD7DBBA0000000000014672
+t1289214906
+s83570
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/welcome.html
+c000000004CE8CAD1000000000000060A
+t1290324689
+s1546
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.h
+c000000004CD7AB0A000000000000012F
+t1289202442
+s303
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m
+c000000004CD7AC580000000000000341
+t1289202776
+s833
+i"AppDelegate.h"
+i"WebAgentView.h"
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.h
+c000000004CD7F7DB0000000000000174
+t1289222107
+s372
+i<Foundation/Foundation.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m
+c000000004CD89CDF00000000000012D8
+t1289264351
+s4824
+i"WebAgentView.h"
+i<objc/runtime.h>
+i"AppDelegate.h"
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/JSDemo_Prefix.pch
+c000000004CD7A8AD00000000000000B5
+t1289201837
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib
+c000000004CD7AA130000000000003F8C
+t1289202195
+s16268
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+t1289302252
+s306
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM
+t1289302252
+s102
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist
+t1289302250
+s587
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+t1289302252
+s21412
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/MainWindow.nib
+t1289302251
+s977
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/PkgInfo
+t1289302250
+s8
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/flag-australia.png
+t1289302250
+s8931
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/map.png
+t1289302250
+s83570
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/welcome.html
+t1289302252
+s1520
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o
+t1289302252
+s45612
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/JSDemo.LinkFileList
+c000000004CD930EA00000000000001AA
+t1289302250
+s426
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o
+t1289302252
+s56888
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o
+t1289302252
+s6336
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/flag-australia.png
+c000000004C13557D00000000000022E3
+t1276335485
+s8931
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m
+c000000004CD7E19C000000000000015E
+t1289216412
+s350
+i<UIKit/UIKit.h>
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/map.png
+c000000004CD7DBBA0000000000014672
+t1289214906
+s83570
+
+N/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/welcome.html
+c000000004CD8354B00000000000005F0
+t1289237835
+s1520
+
+N/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch.gch
+t1290324783
+s13825936
+
+NJSDemo-Info.plist
+c000000004CD7A8AD000000000000038D
+t1289201837
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies312017718#312017718#0(109"[WARN]warning: no rule to process file '$(PROJECT_DIR)/welcome.html' of type text.html for architecture i3861(22@102"warning: no rule to process file '$(PROJECT_DIR)/welcome.html' of type text.html for architecture i386312017718#18446744073709551615#0#0(1@0"0(0#1#0"8625885888#0"0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312017583.844111
+e312017583.943340
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@91"Compile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m312017583#312017583#0(0"0(0#0#83"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m8615813632#2210"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/AppDelegate.m -o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310995052.428869
+e310995052.540483
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m310995052#310995052#0(0"0(0#0#77"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m8627094688#2090"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/AppDelegate.m -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/AppDelegate.o0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312017718.395881
+e312017718.703744
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m312017718#312017718#0(0"0(0#0#84"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m8632095104#2212"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/Classes/WebAgentView.m -o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310995052.502125
+e310995052.636215
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m310995052#310995052#0(0"0(0#0#78"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m8683880608#2092"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/Classes/WebAgentView.m -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/WebAgentView.o0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s312017583.842745
+e312017583.923820
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@76"Compile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m312017583#312017583#0(0"0(0#0#68"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m8617983008#2188"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/main.m -o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o0#
+
+CCompileC build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s310995052.427511
+e310995052.501982
+r1
+xCompileC
+xbuild/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@70"Compile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m310995052#310995052#0(0"0(0#0#62"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m8603674816#2068"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -include /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch -c /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/main.m -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/MainWindow.xib
+r0
+
+CCompileXIB /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib
+s310995050.858706
+e310995051.496736
+r1
+xCompileXIB
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib
+o/* com.apple.ibtool.document.warnings */
+o/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib:3: warning: The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on AppDelegate.
+lSLF07#2@25"CompileXIB MainWindow.xib310995050#310995051#0(237"/* com.apple.ibtool.document.warnings *//Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib:3: warning: The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on AppDelegate.1(22@112"The 'window' outlet of 'App Delegate' is connected to 'Window' but 'window' is no longer defined on AppDelegate.310995051#18446744073709551615#0#0(6@70"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib310894995#3#0#3#0#0"0(0#0#70"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib8615671744#620"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.0    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/MainWindow.nib /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCpResource build/Debug-iphonesimulator/JSDemo.app/flag-australia.png flag-australia.png
+s310995050.864064
+e310995050.882859
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/JSDemo.app/flag-australia.png
+xflag-australia.png
+lSLF07#2@23"Copy flag-australia.png310995050#310995050#0(0"0(0#0#74"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/flag-australia.png8639172768#512"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/flag-australia.png /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app0#
+
+CCpResource build/Debug-iphonesimulator/JSDemo.app/map.png map.png
+s310995050.861943
+e310995050.874478
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/JSDemo.app/map.png
+xmap.png
+lSLF07#2@12"Copy map.png310995050#310995050#0(0"0(0#0#63"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/map.png8685001248#501"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/map.png /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app0#
+
+CGenerateDSYMFile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+s312017718.732943
+e312017718.749219
+r1
+xGenerateDSYMFile
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/JSDemo.app.dSYM build/Debug-iphonesimulator/JSDemo.app/JSDemo312017718#312017718#0(0"0(0#0#107"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo8619442432#449"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo -o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM0#
+
+CGenerateDSYMFile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+s310995052.672113
+e310995052.696904
+r1
+xGenerateDSYMFile
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/JSDemo.app.dSYM build/Debug-iphonesimulator/JSDemo.app/JSDemo310995052#310995052#0(0"0(0#0#101"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo8600657344#431"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app.dSYM0#
+
+CLd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo normal i386
+s312017718.703880
+e312017718.732786
+r1
+xLd
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+xnormal
+xi386
+lSLF07#2@112"Link /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo312017718#312017718#0(0"0(0#0#0"8630788192#1010"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -F/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -filelist /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/JSDemo.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo0#
+
+CLd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo normal i386
+s310995052.636482
+e310995052.671970
+r1
+xLd
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo
+xnormal
+xi386
+lSLF07#2@106"Link /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo310995052#310995052#0(0"0(0#0#0"8618817920#980"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -F/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -filelist /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/Objects-normal/i386/JSDemo.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/JSDemo0#
+
+CPBXCp build/Debug-iphonesimulator/JSDemo.app/welcome.html welcome.html
+s312017584.011502
+e312017584.034812
+r1
+xPBXCp
+xbuild/Debug-iphonesimulator/JSDemo.app/welcome.html
+xwelcome.html
+lSLF07#2@17"Copy welcome.html312017584#312017584#0(0"0(0#0#74"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/welcome.html8633656640#524"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/welcome.html /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app0#
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist JSDemo-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist JSDemo-Info.plist
+s310995050.852006
+e310995050.858574
+r1
+xProcessInfoPlistFile
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist
+xJSDemo-Info.plist
+lSLF07#2@25"Process JSDemo-Info.plist310995050#310995050#0(0"0(0#0#73"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/JSDemo-Info.plist8649207456#527"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility JSDemo-Info.plist -genpkginfo /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app/Info.plist0#
+
+CProcessPCH /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch.gch JSDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s310995051.496897
+e310995052.427306
+r1
+xProcessPCH
+x/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch.gch
+xJSDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile JSDemo_Prefix.pch310995051#310995052#0(0"0(0#0#73"/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/JSDemo_Prefix.pch8613914848#1944"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -c /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/JSDemo_Prefix.pch -o /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cbhzlewsokqwppfcbodboqlkwrgy/JSDemo_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch.gch JSDemo_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s312017583.002753
+e312017583.842613
+r1
+xProcessPCH
+x/var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch.gch
+xJSDemo_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile JSDemo_Prefix.pch312017583#312017583#0(0"0(0#0#79"/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/JSDemo_Prefix.pch8633058528#2058"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-generated-files.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-own-target-headers.hmap -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-all-target-headers.hmap -iquote /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/JSDemo-project-headers.hmap -F/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/include -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources/i386 -I/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/JSDemo.build/Debug-iphonesimulator/JSDemo.build/DerivedSources -c /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/JSDemo_Prefix.pch -o /var/folders/qE/qEgqL-gHEtuJ5N6lLcoUVk+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/JSDemo_Prefix-cxcktqanyosyixdhwbumzyeypsjb/JSDemo_Prefix.pch.gch0#
+
+CTouch /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+s312017718.749439
+e312017718.753146
+r1
+xTouch
+x/Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+lSLF07#2@106"Touch /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app312017718#312017718#0(0"0(0#0#0"8630891680#323"    cd /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/henryyu/Desktop/iPhone开发揭秘/Product/Code/JSDemo/build/Debug-iphonesimulator/JSDemo.app0#
+
+CTouch /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+s310995052.703744
+e310995052.707638
+r1
+xTouch
+x/Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app
+lSLF07#2@100"Touch /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app310995052#310995052#0(0"0(0#0#0"8614603424#311"    cd /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/henryyu/Desktop/iPhone开发揭秘/代码/JSDemo/build/Debug-iphonesimulator/JSDemo.app0#
+

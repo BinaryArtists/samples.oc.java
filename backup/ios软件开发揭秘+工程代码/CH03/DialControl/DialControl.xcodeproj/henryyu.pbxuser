@@ -1,0 +1,266 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DialControlAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 495}}";
+			sepNavSelRange = "{144, 0}";
+			sepNavVisRange = "{0, 462}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DialControlAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1027}}";
+			sepNavSelRange = "{143, 0}";
+			sepNavVisRange = "{0, 1156}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DialControl */ = {
+		activeExec = 0;
+		executables = (
+			8F43892712A2076000F5A37A /* DialControl */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8F43892712A2076000F5A37A /* DialControl */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DialControl */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DialControl */,
+		);
+		codeSenseManager = 8F43893212A2078000F5A37A /* Code sense */;
+		executables = (
+			8F43892712A2076000F5A37A /* DialControl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					561,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312638932;
+			PBXWorkspaceStateSaveDate = 312638932;
+		};
+		perUserProjectItems = {
+			8F43899412A20C3500F5A37A /* PBXBookmark */ = 8F43899412A20C3500F5A37A /* PBXBookmark */;
+			8F43899512A20C3500F5A37A /* PBXBookmark */ = 8F43899512A20C3500F5A37A /* PBXBookmark */;
+			8F43899612A20C3500F5A37A /* PBXBookmark */ = 8F43899612A20C3500F5A37A /* PBXBookmark */;
+			8F43B57E12A226E500F5A37A /* PBXTextBookmark */ = 8F43B57E12A226E500F5A37A /* PBXTextBookmark */;
+			8F43B57F12A226E500F5A37A /* PBXTextBookmark */ = 8F43B57F12A226E500F5A37A /* PBXTextBookmark */;
+			8F43B58312A226E500F5A37A /* PBXTextBookmark */ = 8F43B58312A226E500F5A37A /* PBXTextBookmark */;
+			8F43B60012A22FE700F5A37A /* PBXTextBookmark */ = 8F43B60012A22FE700F5A37A /* PBXTextBookmark */;
+			8F43B60112A22FE700F5A37A /* PBXTextBookmark */ = 8F43B60112A22FE700F5A37A /* PBXTextBookmark */;
+			8F43B60312A22FE700F5A37A /* PBXTextBookmark */ = 8F43B60312A22FE700F5A37A /* PBXTextBookmark */;
+			8F43B61212A27E5F00F5A37A /* PBXTextBookmark */ = 8F43B61212A27E5F00F5A37A /* PBXTextBookmark */;
+			8F43B61312A27E5F00F5A37A /* PBXTextBookmark */ = 8F43B61312A27E5F00F5A37A /* PBXTextBookmark */;
+			8F43B61412A27E5F00F5A37A /* PBXTextBookmark */ = 8F43B61412A27E5F00F5A37A /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8F43893112A2078000F5A37A /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 490}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRange = "{0, 356}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* DialControl_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {736, 490}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 191}";
+		};
+	};
+	8F43892712A2076000F5A37A /* DialControl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 1;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DialControl;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8F43893112A2078000F5A37A /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8F43893212A2078000F5A37A /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8F43893412A207B300F5A37A /* DialViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {730, 495}}";
+			sepNavSelRange = "{3, 305}";
+			sepNavVisRange = "{0, 372}";
+		};
+	};
+	8F43893512A207B300F5A37A /* DialViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 1482}}";
+			sepNavSelRange = "{1011, 0}";
+			sepNavVisRange = "{906, 950}";
+		};
+	};
+	8F43894C12A20A2900F5A37A /* UIDialView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {760, 495}}";
+			sepNavSelRange = "{315, 0}";
+			sepNavVisRange = "{0, 579}";
+		};
+	};
+	8F43894D12A20A2900F5A37A /* UIDialView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {739, 1833}}";
+			sepNavSelRange = "{2745, 0}";
+			sepNavVisRange = "{2197, 1059}";
+		};
+	};
+	8F43899412A20C3500F5A37A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F43895112A20A6A00F5A37A /* clock.png */;
+	};
+	8F43899512A20C3500F5A37A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F43895212A20A6A00F5A37A /* knob.png */;
+	};
+	8F43899612A20C3500F5A37A /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 8F43895312A20A6A00F5A37A /* main_bg.png */;
+	};
+	8F43B57E12A226E500F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 356;
+		vrLoc = 0;
+	};
+	8F43B57F12A226E500F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* DialControl_Prefix.pch */;
+		name = "DialControl_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	8F43B58312A226E500F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DialControlAppDelegate.m */;
+		name = "DialControlAppDelegate.m: 7";
+		rLen = 0;
+		rLoc = 143;
+		rType = 0;
+		vrLen = 1156;
+		vrLoc = 0;
+	};
+	8F43B60012A22FE700F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DialControlAppDelegate.h */;
+		name = "DialControlAppDelegate.h: 8";
+		rLen = 0;
+		rLoc = 144;
+		rType = 0;
+		vrLen = 462;
+		vrLoc = 0;
+	};
+	8F43B60112A22FE700F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F43894C12A20A2900F5A37A /* UIDialView.h */;
+		name = "UIDialView.h: 17";
+		rLen = 0;
+		rLoc = 315;
+		rType = 0;
+		vrLen = 579;
+		vrLoc = 0;
+	};
+	8F43B60312A22FE700F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F43893412A207B300F5A37A /* DialViewController.h */;
+		name = "DialViewController.h: 2";
+		rLen = 305;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 372;
+		vrLoc = 0;
+	};
+	8F43B61212A27E5F00F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F43893512A207B300F5A37A /* DialViewController.m */;
+		name = "DialViewController.m: 42";
+		rLen = 0;
+		rLoc = 1011;
+		rType = 0;
+		vrLen = 950;
+		vrLoc = 906;
+	};
+	8F43B61312A27E5F00F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F43894D12A20A2900F5A37A /* UIDialView.m */;
+		name = "UIDialView.m: 88";
+		rLen = 1034;
+		rLoc = 2014;
+		rType = 0;
+		vrLen = 1122;
+		vrLoc = 1977;
+	};
+	8F43B61412A27E5F00F5A37A /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8F43894D12A20A2900F5A37A /* UIDialView.m */;
+		name = "UIDialView.m: 110";
+		rLen = 0;
+		rLoc = 2745;
+		rType = 0;
+		vrLen = 1059;
+		vrLoc = 2197;
+	};
+}

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>LANGUAGE</key>
+    <string>言語</string>		
+	<key>Back</key>
+	<string>Back</string>
+	<key>Search</key>
+	<string>検索</string>
+	<key>view entire collection</key>
+	<string>コレクションをすべて表示</string>
+	<key>LINGERIE</key>
+	<string>セクシーランジェリー</string>
+	<key>EYELASHES</key>
+	<string>まつげ</string>
+	<key>CATEGORIES</key>
+	<string>カテゴリー</string>
+	<key>ABOUT US</key>
+	<string>当社について</string>
+</dict>
+</plist>

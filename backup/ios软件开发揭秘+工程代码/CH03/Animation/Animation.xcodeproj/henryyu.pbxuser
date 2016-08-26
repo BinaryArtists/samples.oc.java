@@ -1,0 +1,153 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* AnimationAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {729, 521}}";
+			sepNavSelRange = "{140, 0}";
+			sepNavVisRange = "{0, 324}";
+		};
+	};
+	1D3623250D0F684500981E51 /* AnimationAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1300}}";
+			sepNavSelRange = "{1130, 178}";
+			sepNavVisRange = "{285, 1583}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Animation */ = {
+		activeExec = 0;
+		executables = (
+			8FF50F831288E8D300AE1DF6 /* Animation */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FF50F831288E8D300AE1DF6 /* Animation */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Animation */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Animation */,
+		);
+		codeSenseManager = 8FF50F931288E8DB00AE1DF6 /* Code sense */;
+		executables = (
+			8FF50F831288E8D300AE1DF6 /* Animation */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					551,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312807535;
+			PBXWorkspaceStateSaveDate = 312807535;
+		};
+		perUserProjectItems = {
+			8F280C871294165600C51CB3 /* PBXTextBookmark */ = 8F280C871294165600C51CB3 /* PBXTextBookmark */;
+			8F78FFA412A5108800ECCBC6 /* PBXTextBookmark */ = 8F78FFA412A5108800ECCBC6 /* PBXTextBookmark */;
+			8FF50FAF1288E98200AE1DF6 /* PlistBookmark */ = 8FF50FAF1288E98200AE1DF6 /* PlistBookmark */;
+			8FF5113C12891C4300AE1DF6 /* PBXTextBookmark */ = 8FF5113C12891C4300AE1DF6 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FF50F921288E8DB00AE1DF6 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8F280C871294165600C51CB3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimationAppDelegate.m */;
+		name = "AnimationAppDelegate.m: 30";
+		rLen = 71;
+		rLoc = 739;
+		rType = 0;
+		vrLen = 1197;
+		vrLoc = 234;
+	};
+	8F78FFA412A5108800ECCBC6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* AnimationAppDelegate.m */;
+		name = "AnimationAppDelegate.m: 40";
+		rLen = 178;
+		rLoc = 1130;
+		rType = 0;
+		vrLen = 1583;
+		vrLoc = 285;
+	};
+	8FF50F831288E8D300AE1DF6 /* Animation */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Animation;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FF50F921288E8DB00AE1DF6 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FF50F931288E8DB00AE1DF6 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FF50FAF1288E98200AE1DF6 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Animation-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/henryyu/Desktop/Animation/Animation-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775808;
+	};
+	8FF5113C12891C4300AE1DF6 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* AnimationAppDelegate.h */;
+		name = "AnimationAppDelegate.h: 8";
+		rLen = 0;
+		rLoc = 140;
+		rType = 0;
+		vrLen = 324;
+		vrLoc = 0;
+	};
+}

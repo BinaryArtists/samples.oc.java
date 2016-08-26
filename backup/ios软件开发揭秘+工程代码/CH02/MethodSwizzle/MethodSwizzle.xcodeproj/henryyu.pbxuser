@@ -1,0 +1,189 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* MethodSwizzle */ = {
+		activeExec = 0;
+		executables = (
+			8FF2D1E71283F4F900030FBC /* MethodSwizzle */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FF2D1E71283F4F900030FBC /* MethodSwizzle */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MethodSwizzle */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* MethodSwizzle */,
+		);
+		codeSenseManager = 8FF2D1F51283F51200030FBC /* Code sense */;
+		executables = (
+			8FF2D1E71283F4F900030FBC /* MethodSwizzle */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					548,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310637817;
+			PBXWorkspaceStateSaveDate = 310637817;
+		};
+		perUserProjectItems = {
+			8FF2D2341283FD2600030FBC /* PlistBookmark */ = 8FF2D2341283FD2600030FBC /* PlistBookmark */;
+			8FF2D2351283FD2600030FBC /* PBXTextBookmark */ = 8FF2D2351283FD2600030FBC /* PBXTextBookmark */;
+			8FF2D28712840CA500030FBC /* PBXTextBookmark */ = 8FF2D28712840CA500030FBC /* PBXTextBookmark */;
+			8FF2D296128410D500030FBC /* PBXTextBookmark */ = 8FF2D296128410D500030FBC /* PBXTextBookmark */;
+			8FF2D297128410D500030FBC /* XCBuildMessageTextBookmark */ = 8FF2D297128410D500030FBC /* XCBuildMessageTextBookmark */;
+			8FF2D307128428F900030FBC /* PBXTextBookmark */ = 8FF2D307128428F900030FBC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FF2D1F41283F51200030FBC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {710, 496}}";
+			sepNavSelRange = "{320, 0}";
+			sepNavVisRange = "{0, 375}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MethodSwizzle_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 496}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 195}";
+		};
+	};
+	8FF2D1E71283F4F900030FBC /* MethodSwizzle */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MethodSwizzle;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FF2D1F41283F51200030FBC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FF2D1F51283F51200030FBC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FF2D1FF1283F6BF00030FBC /* Swizzle.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 496}}";
+			sepNavSelRange = "{3, 310}";
+			sepNavVisRange = "{0, 314}";
+		};
+	};
+	8FF2D2001283F6BF00030FBC /* Swizzle.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {703, 676}}";
+			sepNavSelRange = "{1153, 0}";
+			sepNavVisRange = "{952, 329}";
+		};
+	};
+	8FF2D2341283FD2600030FBC /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* MethodSwizzle-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			LSRequiresIPhoneOS,
+		);
+		name = "/Users/henryyu/Desktop/MethodSwizzle/MethodSwizzle-Info.plist";
+		rLen = 0;
+		rLoc = 9223372036854775807;
+	};
+	8FF2D2351283FD2600030FBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MethodSwizzle_Prefix.pch */;
+		name = "MethodSwizzle_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 195;
+		vrLoc = 0;
+	};
+	8FF2D28712840CA500030FBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF2D1FF1283F6BF00030FBC /* Swizzle.h */;
+		name = "Swizzle.h: 2";
+		rLen = 310;
+		rLoc = 3;
+		rType = 0;
+		vrLen = 314;
+		vrLoc = 0;
+	};
+	8FF2D296128410D500030FBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 17";
+		rLen = 0;
+		rLoc = 320;
+		rType = 0;
+		vrLen = 375;
+		vrLoc = 0;
+	};
+	8FF2D297128410D500030FBC /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "'class_poseAs' is unavailable (declared at /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/usr/include/objc/runtime.h:487)";
+		fRef = 8FF2D2001283F6BF00030FBC /* Swizzle.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 0;
+		rLoc = 48;
+		rType = 1;
+	};
+	8FF2D307128428F900030FBC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF2D2001283F6BF00030FBC /* Swizzle.m */;
+		name = "Swizzle.m: 22";
+		rLen = 0;
+		rLoc = 361;
+		rType = 0;
+		vrLen = 951;
+		vrLoc = 0;
+	};
+}

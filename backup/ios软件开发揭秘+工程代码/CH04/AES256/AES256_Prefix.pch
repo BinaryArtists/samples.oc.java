@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'AES256' target in the 'AES256' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif

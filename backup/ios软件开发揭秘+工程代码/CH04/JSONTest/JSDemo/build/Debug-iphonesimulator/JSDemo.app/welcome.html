@@ -1,0 +1,41 @@
+<html>
+<head>
+<meta name = "viewport" content = "initial-scale = 1.0, user-scalable = no, width = 320"/>
+<script>
+function imageClicked(i){
+    var clicked = true;	 
+	var str = ""+i;
+	if(str.charAt(0) != 'L'){
+	     var id = 'area' + i;
+	     var el = document.getElementById(id);		 
+	}   
+	window.location="http://click/"+i;   
+}  
+</script>
+<style type="text/css">
+.borderImage {
+      -webkit-tap-highlight-color:rgba(0,0,0,0);
+}       
+</style> 
+</head>
+<body style="background-color: transparent;margin-top:0px;margin-left:0px">
+<center>
+<div class="borderImage">
+<img id="topimage" src="[[[TOPIMG]]]" border="0" height="241" width="319" usemap="#map">
+<map name=map>
+<area shape="rect" id="area0" coords="124,1,191,58" href="javascript:imageClicked(0)" />
+<area shape="rect" id="area1" coords="36,64,97,110" href="javascript:imageClicked(1)" />
+<area shape="rect" id="area2" coords="119,135,171,182" href="javascript:imageClicked(2)" />
+<area shape="rect" id="area3" coords="205,26,248,60" href="javascript:imageClicked(3)" />
+<area shape="rect" id="area4" coords="264,88,306,132" href="javascript:imageClicked(4)" />
+<area shape="rect" id="area5" coords="272,154,313,199" href="javascript:imageClicked(5)" />
+<area shape="rect" id="area6" coords="187,125,232,172" href="javascript:imageClicked(6)" />
+<area shape="rect" id="area7" coords="255,1,285,26" href="javascript:imageClicked(7)" />
+<area shape="rect" id="area8" coords="283,1,314,26" href="javascript:imageClicked(8)" />
+</map>
+</div>
+
+[[[LANGUAGELIST]]]
+</center>
+</body>
+</html>

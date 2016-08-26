@@ -1,0 +1,146 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeTarget = D2AAC07D0554694100DB518D /* JSONLib */;
+		addToTargets = (
+			D2AAC07D0554694100DB518D /* JSONLib */,
+		);
+		codeSenseManager = 8FF8C2F9128454B200980C35 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					514,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					474,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 312205389;
+			PBXWorkspaceStateSaveDate = 312205389;
+		};
+		perUserProjectItems = {
+			8FF3E83C129BE052008EC107 /* PBXTextBookmark */ = 8FF3E83C129BE052008EC107 /* PBXTextBookmark */;
+			8FF81C3712846EE300980C35 /* PBXTextBookmark */ = 8FF81C3712846EE300980C35 /* PBXTextBookmark */;
+			8FF8C51812845AD800980C35 /* PBXTextBookmark */ = 8FF8C51812845AD800980C35 /* PBXTextBookmark */;
+			8FF8C51912845AD800980C35 /* PBXTextBookmark */ = 8FF8C51912845AD800980C35 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FF8C2F8128454B200980C35 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8FF3E83C129BE052008EC107 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF8C2FF1284557300980C35 /* NSString+SBJSON.m */;
+		name = "NSString+SBJSON.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1592;
+		vrLoc = 293;
+	};
+	8FF81C3712846EE300980C35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF8C2FF1284557300980C35 /* NSString+SBJSON.m */;
+		name = "NSString+SBJSON.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1592;
+		vrLoc = 293;
+	};
+	8FF8C2F8128454B200980C35 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FF8C2F9128454B200980C35 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FF8C2FB1284557300980C35 /* JSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {2070, 884}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{2142, 682}";
+		};
+	};
+	8FF8C2FE1284557300980C35 /* NSString+SBJSON.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {712, 637}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{496, 1536}";
+		};
+	};
+	8FF8C2FF1284557300980C35 /* NSString+SBJSON.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {692, 598}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{293, 1592}";
+		};
+	};
+	8FF8C51812845AD800980C35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF8C2FB1284557300980C35 /* JSON.h */;
+		name = "JSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 682;
+		vrLoc = 2142;
+	};
+	8FF8C51912845AD800980C35 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FF8C2FE1284557300980C35 /* NSString+SBJSON.h */;
+		name = "NSString+SBJSON.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1536;
+		vrLoc = 496;
+	};
+	D2AAC07D0554694100DB518D /* JSONLib */ = {
+		activeExec = 0;
+	};
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>0.9</string>
+	<key>OS</key>
+	<string>iPad</string>
+	<key>Language</key>
+	<string>English</string>
+	<key>BaseURL</key>
+	<string>http://www.magiccolor.com</string>
+	<key>CFBundleSignature</key>
+	<string>4JbEUu92KhZ6CeLSlnVm1oJsIoO+/ztrLla90nmuJTA=</string>
+	<key>Series</key>
+	<array>
+			<dict>
+				<key>SeriesID</key>
+				<string>1</string>
+				<key>SeriesName</key>
+				<string>Animal</string>
+				<key>Price</key>
+				<string>0</string>
+				<key>SeriesDirectory</key>
+				<string>/Media/ANIMAL</string>
+				<key>PhotoNumber</key>
+				<string>50</string>
+				<key>PhotoStartId</key>
+				<string>1</string>
+			</dict>
+			<dict>
+				<key>SeriesID</key>
+				<string>2</string>
+				<key>SeriesName</key>
+				<string>Bird</string>
+				<key>Price</key>
+				<string>0.99</string>
+				<key>SeriesDirectory</key>
+				<string>/Media/BIRD</string>
+				<key>PhotoNumber</key>
+				<string>32</string>
+				<key>PhotoStartId</key>
+				<string>51</string>
+			</dict>			
+			<dict>
+				<key>SeriesID</key>
+				<string>3</string>
+				<key>SeriesName</key>
+				<string>FISH</string>
+				<key>Price</key>
+				<string>0.99</string>
+				<key>SeriesDirectory</key>
+				<string>/Media/FISH</string>
+				<key>PhotoNumber</key>
+				<string>66</string>
+				<key>PhotoStartId</key>
+				<string>225</string>
+			</dict>					
+		</array>
+</dict>
+</plist>

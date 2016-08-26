@@ -1,0 +1,431 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DatePickerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 510}}";
+			sepNavSelRange = "{268, 20}";
+			sepNavVisRange = "{0, 474}";
+		};
+	};
+	1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1686, 1358}}";
+			sepNavSelRange = "{0, 2741}";
+			sepNavVisRange = "{0, 769}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DatePicker */ = {
+		activeExec = 0;
+		executables = (
+			8F83199612857F17004CC473 /* DatePicker */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8F83199612857F17004CC473 /* DatePicker */;
+		activeSDKPreference = iphonesimulator3.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DatePicker */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DatePicker */,
+		);
+		codeSenseManager = 8F8319AD12857F20004CC473 /* Code sense */;
+		executables = (
+			8F83199612857F17004CC473 /* DatePicker */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					520,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					511,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 310750240;
+			PBXWorkspaceStateSaveDate = 310750240;
+		};
+		perUserProjectItems = {
+			8FB52D111285866800C866E5 /* PBXTextBookmark */ = 8FB52D111285866800C866E5 /* PBXTextBookmark */;
+			8FB52D221285875B00C866E5 /* PBXTextBookmark */ = 8FB52D221285875B00C866E5 /* PBXTextBookmark */;
+			8FB52DC2128591F700C866E5 /* PBXTextBookmark */ = 8FB52DC2128591F700C866E5 /* PBXTextBookmark */;
+			8FB52DED12859B5A00C866E5 /* PBXTextBookmark */ = 8FB52DED12859B5A00C866E5 /* PBXTextBookmark */;
+			8FB52DF312859B5A00C866E5 /* PBXTextBookmark */ = 8FB52DF312859B5A00C866E5 /* PBXTextBookmark */;
+			8FB52F071285A6A200C866E5 /* PBXTextBookmark */ = 8FB52F071285A6A200C866E5 /* PBXTextBookmark */;
+			8FB52F081285A6A200C866E5 /* PBXTextBookmark */ = 8FB52F081285A6A200C866E5 /* PBXTextBookmark */;
+			8FB52F141285A6A200C866E5 /* PBXTextBookmark */ = 8FB52F141285A6A200C866E5 /* PBXTextBookmark */;
+			8FB52F4B1285AD1500C866E5 /* PBXTextBookmark */ = 8FB52F4B1285AD1500C866E5 /* PBXTextBookmark */;
+			8FB52F521285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F521285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F531285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F531285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F541285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F541285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F551285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F551285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F561285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F561285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F571285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F571285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F581285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F581285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F591285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F591285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5A1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5A1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5B1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5B1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5C1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5C1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5D1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5D1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5E1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5E1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F5F1285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F5F1285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F601285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F601285AD5900C866E5 /* PBXTextBookmark */;
+			8FB52F611285AD5900C866E5 /* PBXTextBookmark */ = 8FB52F611285AD5900C866E5 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8F8319AC12857F20004CC473 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 487}}";
+			sepNavSelRange = "{124, 0}";
+			sepNavVisRange = "{0, 355}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* DatePicker_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 487}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 189}";
+		};
+	};
+	8F83199612857F17004CC473 /* DatePicker */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DatePicker;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	8F8319AC12857F20004CC473 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8F8319AD12857F20004CC473 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FB52D111285866800C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DatePickerAppDelegate.h */;
+		name = "DatePickerAppDelegate.h: 19";
+		rLen = 0;
+		rLoc = 466;
+		rType = 0;
+		vrLen = 418;
+		vrLoc = 0;
+	};
+	8FB52D221285875B00C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */;
+		name = "DatePickerAppDelegate.m: 66";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 1047;
+		vrLoc = 0;
+	};
+	8FB52DC2128591F700C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 6";
+		rLen = 0;
+		rLoc = 121;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	8FB52DC71285945A00C866E5 /* UCDatePicker.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {698, 487}}";
+			sepNavSelRange = "{617, 0}";
+			sepNavVisRange = "{0, 643}";
+		};
+	};
+	8FB52DC81285945A00C866E5 /* UCDatePicker.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {682, 2030}}";
+			sepNavSelRange = "{1649, 0}";
+			sepNavVisRange = "{1555, 248}";
+			sepNavWindowFrame = "{{15, 61}, {863, 685}}";
+		};
+	};
+	8FB52DED12859B5A00C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 26";
+		rLen = 0;
+		rLoc = 513;
+		rType = 0;
+		vrLen = 636;
+		vrLoc = 23;
+	};
+	8FB52DF312859B5A00C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 51";
+		rLen = 0;
+		rLoc = 1404;
+		rType = 0;
+		vrLen = 968;
+		vrLoc = 327;
+	};
+	8FB52F071285A6A200C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 7";
+		rLen = 0;
+		rLoc = 124;
+		rType = 0;
+		vrLen = 355;
+		vrLoc = 0;
+	};
+	8FB52F081285A6A200C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* DatePicker_Prefix.pch */;
+		name = "DatePicker_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	8FB52F141285A6A200C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* DatePicker_Prefix.pch */;
+		name = "DatePicker_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 189;
+		vrLoc = 0;
+	};
+	8FB52F4B1285AD1500C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "warning: '-respondsToSelector:' not found in protocol(s)";
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		rLen = 1;
+		rLoc = 69;
+		rType = 1;
+	};
+	8FB52F521285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DatePickerAppDelegate.h */;
+		name = "DatePickerAppDelegate.h: 13";
+		rLen = 20;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	8FB52F531285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */;
+		name = "DatePickerAppDelegate.m: 1";
+		rLen = 2741;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	8FB52F541285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 29";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	8FB52F551285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */;
+		name = "DatePickerAppDelegate.m: 31";
+		rLen = 0;
+		rLoc = 719;
+		rType = 0;
+		vrLen = 805;
+		vrLoc = 1968;
+	};
+	8FB52F561285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 79";
+		rLen = 0;
+		rLoc = 1802;
+		rType = 0;
+		vrLen = 1047;
+		vrLoc = 1378;
+	};
+	8FB52F571285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 29";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	8FB52F581285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 79";
+		rLen = 0;
+		rLoc = 1802;
+		rType = 0;
+		vrLen = 1047;
+		vrLoc = 1378;
+	};
+	8FB52F591285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */;
+		name = "DatePickerAppDelegate.m: 23";
+		rLen = 0;
+		rLoc = 445;
+		rType = 0;
+		vrLen = 842;
+		vrLoc = 3;
+	};
+	8FB52F5A1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 79";
+		rLen = 0;
+		rLoc = 1802;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 794;
+	};
+	8FB52F5B1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 29";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	8FB52F5C1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* DatePickerAppDelegate.h */;
+		name = "DatePickerAppDelegate.h: 13";
+		rLen = 20;
+		rLoc = 268;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	8FB52F5D1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* DatePickerAppDelegate.m */;
+		name = "DatePickerAppDelegate.m: 1";
+		rLen = 2741;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 769;
+		vrLoc = 0;
+	};
+	8FB52F5E1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 29";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	8FB52F5F1285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 79";
+		rLen = 0;
+		rLoc = 1802;
+		rType = 0;
+		vrLen = 922;
+		vrLoc = 1045;
+	};
+	8FB52F601285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC71285945A00C866E5 /* UCDatePicker.h */;
+		name = "UCDatePicker.h: 29";
+		rLen = 0;
+		rLoc = 617;
+		rType = 0;
+		vrLen = 643;
+		vrLoc = 0;
+	};
+	8FB52F611285AD5900C866E5 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 8FB52DC81285945A00C866E5 /* UCDatePicker.m */;
+		name = "UCDatePicker.m: 75";
+		rLen = 0;
+		rLoc = 1801;
+		rType = 0;
+		vrLen = 1240;
+		vrLoc = 1547;
+	};
+}

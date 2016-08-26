@@ -1,0 +1,210 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* MailComposerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 493}}";
+			sepNavSelRange = "{145, 0}";
+			sepNavVisRange = "{0, 500}";
+		};
+	};
+	1D3623250D0F684500981E51 /* MailComposerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 819}}";
+			sepNavSelRange = "{52, 0}";
+			sepNavVisRange = "{0, 1155}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* MailComposer */ = {
+		activeExec = 0;
+		executables = (
+			8FE7388E12924B9900E579C8 /* MailComposer */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* MailComposerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 493}}";
+			sepNavSelRange = "{55, 0}";
+			sepNavVisRange = "{0, 371}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* MailComposerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1034, 546}}";
+			sepNavSelRange = "{149, 0}";
+			sepNavVisRange = "{0, 999}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 8FE7388E12924B9900E579C8 /* MailComposer */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* MailComposer */;
+		codeSenseManager = 8FE738ED12924BB300E579C8 /* Code sense */;
+		executables = (
+			8FE7388E12924B9900E579C8 /* MailComposer */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					506,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 313033919;
+			PBXWorkspaceStateSaveDate = 313033919;
+		};
+		perUserProjectItems = {
+			8FE7390312924F7100E579C8 /* PBXTextBookmark */ = 8FE7390312924F7100E579C8 /* PBXTextBookmark */;
+			8FE7390412924F7100E579C8 /* PBXTextBookmark */ = 8FE7390412924F7100E579C8 /* PBXTextBookmark */;
+			8FE7390512924F7100E579C8 /* PBXTextBookmark */ = 8FE7390512924F7100E579C8 /* PBXTextBookmark */;
+			8FE7390612924F7100E579C8 /* PBXTextBookmark */ = 8FE7390612924F7100E579C8 /* PBXTextBookmark */;
+			8FE7390712924F7100E579C8 /* PBXTextBookmark */ = 8FE7390712924F7100E579C8 /* PBXTextBookmark */;
+			8FE7390912924F7100E579C8 /* PBXTextBookmark */ = 8FE7390912924F7100E579C8 /* PBXTextBookmark */;
+			8FEC27F912A884C400B67FE8 /* PBXTextBookmark */ = 8FEC27F912A884C400B67FE8 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 8FE738EC12924BB300E579C8 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 485}}";
+			sepNavSelRange = "{151, 0}";
+			sepNavVisRange = "{0, 357}";
+		};
+	};
+	32CA4F630368D1EE00C91783 /* MailComposer_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {684, 493}}";
+			sepNavSelRange = "{49, 12}";
+			sepNavVisRange = "{0, 193}";
+		};
+	};
+	8FE7388E12924B9900E579C8 /* MailComposer */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = MailComposer;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	8FE738EC12924BB300E579C8 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	8FE738ED12924BB300E579C8 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	8FE7390312924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* MailComposerAppDelegate.h */;
+		name = "MailComposerAppDelegate.h: 7";
+		rLen = 0;
+		rLoc = 145;
+		rType = 0;
+		vrLen = 500;
+		vrLoc = 0;
+	};
+	8FE7390412924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* MailComposerAppDelegate.m */;
+		name = "MailComposerAppDelegate.m: 4";
+		rLen = 0;
+		rLoc = 52;
+		rType = 0;
+		vrLen = 1155;
+		vrLoc = 0;
+	};
+	8FE7390512924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* MailComposerViewController.h */;
+		name = "MailComposerViewController.h: 4";
+		rLen = 0;
+		rLoc = 55;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	8FE7390612924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* MailComposerViewController.m */;
+		name = "MailComposerViewController.m: 8";
+		rLen = 0;
+		rLoc = 149;
+		rType = 0;
+		vrLen = 999;
+		vrLoc = 0;
+	};
+	8FE7390712924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* MailComposer_Prefix.pch */;
+		name = "MailComposer_Prefix.pch: 2";
+		rLen = 12;
+		rLoc = 49;
+		rType = 0;
+		vrLen = 193;
+		vrLoc = 0;
+	};
+	8FE7390912924F7100E579C8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 9";
+		rLen = 0;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+	8FEC27F912A884C400B67FE8 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 9";
+		rLen = 0;
+		rLoc = 151;
+		rType = 0;
+		vrLen = 357;
+		vrLoc = 0;
+	};
+}
