@@ -2,3 +2,5 @@
 *.xcworkspacedata
 *.xcuserstate
 *.xcscheme
+Breakpoints_v2.xcbkptlist
+xcschememanagement.plist
