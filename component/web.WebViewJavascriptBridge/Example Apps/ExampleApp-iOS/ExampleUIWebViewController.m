@@ -70,8 +70,8 @@
     safetyTimeoutButton.titleLabel.font = font;
 }
 
-- (void)disableSafetyTimeout {disableJavscriptAlertBoxSafetyTimeout
-    [self.bridge ];
+- (void)disableSafetyTimeout {
+    [self.bridge disableJavscriptAlertBoxSafetyTimeout];
 }
 
 - (void)callHandler:(id)sender {

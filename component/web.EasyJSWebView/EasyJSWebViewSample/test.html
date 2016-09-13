@@ -1,0 +1,26 @@
+<html>
+	<head>
+		<script type="text/javascript">
+			MyJSTest.test();
+			MyJSTest.testWithParam("ha:ha");
+			MyJSTest.testWithTwoParamAndParam2("haha1", "haha2");
+			
+			MyJSTest.testWithRet();
+			
+			MyJSTest.testWithFuncParam(function (data){
+				alert("Data from testWithFuncParam: " + data);
+				return "some data";
+			});
+			
+			
+			MyJSTest.testWithFuncParam2(function (data){
+			    alert("Data from testWithFuncParam2: " + data);
+			});
+		</script>
+	</head>
+	
+	<body>
+		Easy JS Hello World
+	</body>
+	
+</html>
