@@ -54,6 +54,9 @@
 * [Singleton](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Singleton)
 * [State](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/State)
 * [Visitor](https://github.com/BinaryArtists/samples.oc.java/tree/master/pattern/oc/Visitor)
+* [AbstractFactory]()
+	> [[抽象工厂模式]在游戏开发中的应用](http://www.tuicool.com/articles/mayYviZ), 设计模式在类间关系这个粒度上给出常见问题的解决方案。属于软件工程中逻辑架构设计中相当重要的一环。
+	> 比如要换肤，那么针对皮肤有一系列工厂（宝石蓝，梦幻紫等），抽象出的行为呢，则是各种子产品（导航条，等子产品元素的外观特征）的接口实例
 
 ### java 综合例子
 
