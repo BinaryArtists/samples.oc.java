@@ -27,6 +27,8 @@ typedef id<User> User;
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    // 抽象类：抽象工厂，抽象用户，抽象部门
+    
     // 抽象工厂：创建用户，创建部门
     
     Factory factory = [[SqlserverFactory alloc]init]; // sql服务器的用户，sql服务器部门
