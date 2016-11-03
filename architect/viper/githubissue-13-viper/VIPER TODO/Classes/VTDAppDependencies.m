@@ -92,6 +92,7 @@
     listWireframe.addWireframe = addWireframe;
     listWireframe.listPresenter = listPresenter;
     listWireframe.rootWireframe = rootWireframe;
+    
     self.listWireframe = listWireframe;
     
     listDataManager.dataStore = dataStore;
