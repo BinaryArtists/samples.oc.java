@@ -1,14 +1,16 @@
 ## MVP
 
+1. 看看层间通信图
+
+2. 是否选用面相接口（协议）设计？
+
+### ios
+
+1. [基于面向协议MVP模式下的软件设计－iOS篇](http://www.cocoachina.com/ios/20151223/14768.html)
 
 
-###
+### android
 
-
-
-
-### 还没看：
-	* [基于面向协议MVP模式下的软件设计－iOS篇](http://www.cocoachina.com/ios/20151223/14768.html)
 	* [north2014/T-MVP](https://github.com/north2014/T-MVP)
 		> 泛型深度解耦下的MVP大瘦身 （Use generic to depthly decoupled MVP）
 		> [Andorid 泛型深度解藕下的MVP大瘦身](http://www.open-open.com/lib/view/open1463448201743.html)
