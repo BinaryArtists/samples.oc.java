@@ -21,7 +21,9 @@
 
 ### Model-View-Controller
 
-1. 看苹果的MVC架构图：
+1. 看传统的MVC模式
+	![tradition mvc]()
+2. 看苹果的MVC架构图：
 	![apple mvc](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/apple-mvc.jpg)
 
 	* （模型 Model） - 程序员编写程序应有的功能（实现算法等等）、数据库专家进行数据管理和数据库设计(可以实现具体的功能)。
@@ -62,3 +64,17 @@
 
 
 ### 面相接口（协议）设计
+
+## 上面说了架构模式（原理）和架构风格因子（形式），下面说说，为什么要“架构”？
+
+### 分布式
+
+### 易测性
+
+
+### 易用性
+
+
+## 本文参考：
+
+1. [iOS 架构模式--解密 MVC，MVP，MVVM以及VIPER架构](http://www.cocoachina.com/ios/20160108/14916.html)
