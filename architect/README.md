@@ -22,7 +22,7 @@
 ### Model-View-Controller
 
 1. 看传统的MVC模式
-	![tradition mvc]()
+	![tradition mvc](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/tradition-mvc.png)
 2. 看苹果的MVC架构图：
 	![apple mvc](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/apple-mvc.jpg)
 
@@ -32,7 +32,13 @@
 2. 
 
 ### Model-View-Presenter
-
+http://www.cocoachina.com/ios/20160108/14916.html
+https://github.com/search?l=Objective-C&p=5&q=mvp&type=Repositories&utf8=%E2%9C%93
+https://github.com/SkyOldLee/MVP
+https://github.com/amacou/MVPExample
+https://github.com/indexjincieryi/NDMVPProject
+https://github.com/MChainZhou/MVP/tree/master/MVP/MVP/Main/Presenter
+https://github.com/YFSS/mvpd
 
 ### Model-ViewModel-View
 
