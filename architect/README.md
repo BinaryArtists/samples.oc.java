@@ -29,11 +29,12 @@
 
 1. View与ViewModel一一对应
 	* ViewModel 是视图数据模型，此时的分层结构，可以参考：[猿题库 iOS 客户端架构设计](http://www.jianshu.com/p/dc0aeec7dbc2) ，形成下面的架构图
-	![mvvm-yuantiku](mvvm-yuantiku.png)
+	![mvvm-yuantiku](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/mvvm-yuantiku.png)
 	* Controller 是视图容器scene、scene切换控制、部分视图逻辑
-	* View 
+	* View Action-Handler
 2. View与ViewController一一对应
-	* ViewModel 是视图控制器数据模型，应该是ViewControllerModel，有人也会将
+	* ViewModel 是视图控制器数据模型，应该是ViewControllerModel
+	* Controller 是视图容器scene, scene切换控制（也有人将这一步移入ViewModel，相当于Presenter），Action-Handler
 	* 
 3. 数据绑定（非必须）
 	* ReactCocoa 是数据绑定的首选框架
