@@ -42,21 +42,35 @@
 3. 耐心点，最后一张，他对应了实际的解决域：
 	![related to answer domain mvp model](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/mvp-3.jpg)
 
-4. 
+4. 职责
+	* View:负责绘制UI元素、与用户进行交互;
+	* View interface:需要View实现的接口，View通过View interface与Presenter进行交互，降低耦合，方便进行单元测试;
+	* Model:负责存储、检索、操纵数据(有时也实现一个Model interface用来降低耦合)，为UI层提供的数据，或者保存UI层传下来的数据;
+	* Presenter:作为View与Model交互的中间纽带，处理与用户交互的负责逻辑；逻辑控制层，从Model处取数据，运算和转化，最后用View来展示；并处理View传过来的用户事件，并做处理。
+	* 因此，Presenter 层是连接 Model 层和 View 层的中间层，因此持有 View 层的接口和 Model 层的接口。
+
+	* 可选：实际操作的时候，你可以按需给Presenter赋予职责。他可以是DAO+Data加工、而VC做路由，也可以是DAO+DATA加工+路由，就看谁来驱动谁了～
+
+	* 一般还是会吧View层的Action-handler与Presenter直接对接，如果在ViewController中相应，再传递到Presenter, 那么传递链过长，会有很多胶水代码！
+
+5. 规则
+	* Model与View不能直接通信，只能通过Presenter
+	* Presenter类似于中间人的角色进行协调和调度
+	* Model和View是接口，Presenter持有的是一个Model接口和一个View接口
+	* Model和View都应该是被动的，一切都由Presenter来主导
+	* Model应该把与业务逻辑层的交互封装掉，换句话说Presenter和View不应该知道业务逻辑层
+	* View的逻辑应该尽可能的简单，不应该有状态。当事件发生时，调用Presenter来处理，并且不传参数，Presenter处理时再调用View的方法来获取。
 
 5. 代码分析 看 [architect/mvp](https://github.com/BinaryArtists/samples.oc.java/tree/master/architect/mvp)
 
-一般还是会吧View层的Action-handler与Presenter直接对接，如果在ViewController中相应，再传递到Presenter, 那么传递链过长，会有很多胶水代码！
-
-http://www.cocoachina.com/ios/20160108/14916.html
-https://github.com/search?l=Objective-C&p=5&q=mvp&type=Repositories&utf8=%E2%9C%93
-https://github.com/SkyOldLee/MVP
-https://github.com/amacou/MVPExample
-
+6. 引用：
+	* [架构思维系列之MVP架构](http://www.jianshu.com/p/419b3f6a108a)
 
 ### 插播广告 Model-View-Protocol
 
 在[基于面向协议MVP模式下的软件设计－iOS篇](http://www.cocoachina.com/ios/20151223/14768.html)中，提高了这个模式，它的实现思想是 下面讲到的面相接口，面向接口本质上是对流程、行为模型进行抽象，然后调用、实现。
+
+上文中的实现：[SkyOldLee/MVP](https://github.com/SkyOldLee/MVP)
 
 * 小团队不建议大规模使用，尤其是迭代速度很快、变化日新月异的情况下。大团队嘛，随便怎么玩，开心就好。*
 
@@ -93,7 +107,7 @@ https://github.com/amacou/MVPExample
 	* 参考：
 		1. [使用VIPER构建iOS应用](http://www.cocoachina.com/ios/20140703/9016.html)
 
-## 上面说的是不同的分层架构模式，下面选读了一些思想，它设定了架构的风格（
+## 上面说的是不同的分层架构模式，下面选读了一些思想，它设定了架构的风格
 
 ### 数据流驱动
 
@@ -118,7 +132,7 @@ https://github.com/amacou/MVPExample
 		// 之后，那些人开始要烧钱了，要改用Oracle了，这样我们只要按BaseDao的定义，再实现一个OracleDao就可以了，再将配置文件中的配置改为：com.bao.dao.impl.OralceDao就可以了
 		// 而在已经写好的代码中，我们可以一行不改的进行了数据库移植，这个就是面向对象设计原则中的“开-闭原则”（对增加是开放的，对修改是封闭的）
 		```
-	* 基于上一段，面向接口提供了“装配”的能力！
+	* 基于上一段，面向接口提供了“可装配”的能力！
 	
 3. 
 
@@ -126,12 +140,23 @@ https://github.com/amacou/MVPExample
 
 ### 分布式
 
-### 易测性
+### 易测性(Unit Testing)
 
 
-### 易用性
+### 易用性(包含可复用性的意思么？)
 
 
 ## 本文参考：
 
+*总而言之，模糊的职责划分是非常糟糕的，你要善用这些思想工具*
+
 1. [iOS 架构模式--解密 MVC，MVP，MVVM以及VIPER架构](http://www.cocoachina.com/ios/20160108/14916.html)
+
+
+### 最后谈谈自己的实际操作经验吧
+
+1. 1～3人小组，完全不考虑面向接口
+	* View层：ViewContoller+View
+	* Dao层：数据获取（Dao	层，有时候会考虑扩充，做成实实在在的业务逻辑层，整合业务流程）
+	* Model\Entity\DTO（备注：DTO通常用于不同层（UI层、服务层或者域模型层）直接的数据传输，以隔离不同层，降低层间耦合）（有时候，贫血NetModel和DTO都会省略，直接使用）
+2. 3～8人组，考虑层间接口、但尽量通用（也就是template接口抽象），考虑组件化，考虑Mock+单元测试等等

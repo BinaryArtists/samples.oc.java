@@ -3,8 +3,19 @@
 
 ### ios
 
-1. 
+需求描述：
 
+1. 面向接口，且
+	* [mvpd](https://github.com/YFSS/mvpd)
+	* [amacou/MVPExample](https://github.com/amacou/MVPExample)
+
+2. 类引用，且Presenter驱动ViewController
+	* []()
+
+3. 类引用，且ViewController驱动Presenter
+	* [indexjincieryi/NDMVPProject](https://github.com/indexjincieryi/NDMVPProject)
+
+4. 选用哪个？
 
 ### android
 
@@ -13,7 +24,6 @@
 		> [Andorid 泛型深度解藕下的MVP大瘦身](http://www.open-open.com/lib/view/open1463448201743.html)
 	* [Android App的设计架构：MVC,MVP,MVVM与架构经验谈](http://www.41443.com/HTML/Android/20160716/438585_3.html)
 	* [Android开发App架构MVP模式](http://cdnnn.07net01.com/program/2016/01/1189220.html)
-	* [架构思维系列之MVP架构](http://www.jianshu.com/p/419b3f6a108a)
 	* [antoniolg/androidmvp](https://github.com/antoniolg/androidmvp)
 	* [googlesamples/android-architecture](https://github.com/googlesamples/android-architecture)
 	* [githubwing/MVPHelper](https://github.com/githubwing/MVPHelper/)
