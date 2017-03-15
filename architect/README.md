@@ -32,13 +32,21 @@
 2. 
 
 ### Model-View-Presenter
+
+一般还是会吧View层的Action-handler与Presenter直接对接，如果在ViewController中相应，再传递到Presenter, 那么传递链过长，会有很多胶水代码！
+
 http://www.cocoachina.com/ios/20160108/14916.html
 https://github.com/search?l=Objective-C&p=5&q=mvp&type=Repositories&utf8=%E2%9C%93
 https://github.com/SkyOldLee/MVP
 https://github.com/amacou/MVPExample
 https://github.com/indexjincieryi/NDMVPProject
 https://github.com/MChainZhou/MVP/tree/master/MVP/MVP/Main/Presenter
-https://github.com/YFSS/mvpd
+
+### 插播广告 Model-View-Protocol
+
+在[基于面向协议MVP模式下的软件设计－iOS篇](http://www.cocoachina.com/ios/20151223/14768.html)中，提高了这个模式，它的实现思想是 下面讲到的面相接口，面向接口本质上是对流程、行为模型进行抽象，然后调用、实现。
+
+* 小团队不建议大规模使用，尤其是迭代速度很快、变化日新月异的情况下。大团队嘛，随便怎么玩，开心就好。*
 
 ### Model-ViewModel-View
 
@@ -70,6 +78,25 @@ https://github.com/YFSS/mvpd
 
 
 ### 面相接口（协议）设计
+
+1. 引用一篇文章[面向接口编程的好处分析](http://blog.csdn.net/qq376430645/article/details/9927225)
+	* What？接口就是标准规范，就是定死了一个框架，你根据这个框架去执行！有了标准去遵守就容易扩展！我们只需要面向标准编程，而不用针对具体的实现类！
+	* 使用面向接口的编程过程中，将具体逻辑与实现分开，减少了各个类之间的相互依赖，当各个类变化时，不需要对已经编写的系统进行改动，添加新的实现类就可以了，不再担心新改动的类对系统的其他模块造成影响。 
+	* Why？a. 更加抽象,更加面向对象 b. 提高编程的灵活性 c. 实现高内聚、低耦合，提高可维护性，降低系统维护成本。
+	* How？协调者：接口定义，调用者：接口使用，实现者：接口实现.
+	* Mean？[什么叫面向接口编程以及面向接口编程的好处](http://www.cnblogs.com/xyqCreator/archive/2012/11/06/2756687.html)面向对象是指，我们考虑问题时，以对象为单位，考虑它的属性及方法；面向过程是指，我们考虑问题时，以一个具体的流程（事务过程）为单位，考虑它的实现（行为模型）。
+
+2. inherit a class is "it likes something",inherit a interface is "doing likes something"
+	* 面向接口（更抽象）是实现多态的关键，看个java反射的例子：
+		```
+		BaseDao dao = (BaseDao)(Class.forName(Config.getDaoName()).newInstance());
+		// 其中Config.getDaoName()可以获得配置文件中的配置，比如是：com.bao.dao.impl.MySQLDao。
+		// 之后，那些人开始要烧钱了，要改用Oracle了，这样我们只要按BaseDao的定义，再实现一个OracleDao就可以了，再将配置文件中的配置改为：com.bao.dao.impl.OralceDao就可以了
+		// 而在已经写好的代码中，我们可以一行不改的进行了数据库移植，这个就是面向对象设计原则中的“开-闭原则”（对增加是开放的，对修改是封闭的）
+		```
+	* 基于上一段，面向接口提供了“装配”的能力！
+	
+3. 
 
 ## 上面说了架构模式（原理）和架构风格因子（形式），下面说说，为什么要“架构”？
 
