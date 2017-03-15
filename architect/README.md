@@ -23,7 +23,7 @@
 
 1. 看传统的MVC模式
 	![tradition mvc](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/tradition-mvc.png)
-2. 看苹果的MVC架构图：
+2. 看苹果的MVC架构图：(注意中间的双黄线)
 	![apple mvc](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/apple-mvc.jpg)
 
 	* （模型 Model） - 程序员编写程序应有的功能（实现算法等等）、数据库专家进行数据管理和数据库设计(可以实现具体的功能)。
@@ -33,14 +33,26 @@
 
 ### Model-View-Presenter
 
+1. 看一张图，他绘出了基本模型：
+	![basic mvp model](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/mvp-1.png)
+
+2. 再看一张，他加入了接口：
+	![protocol mvp model](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/mvp-2.jpg)
+
+3. 耐心点，最后一张，他对应了实际的解决域：
+	![related to answer domain mvp model](https://github.com/BinaryArtists/samples.oc.java/blob/master/architect/res/mvp-3.jpg)
+
+4. 
+
+5. 代码分析 看 [architect/mvp](https://github.com/BinaryArtists/samples.oc.java/tree/master/architect/mvp)
+
 一般还是会吧View层的Action-handler与Presenter直接对接，如果在ViewController中相应，再传递到Presenter, 那么传递链过长，会有很多胶水代码！
 
 http://www.cocoachina.com/ios/20160108/14916.html
 https://github.com/search?l=Objective-C&p=5&q=mvp&type=Repositories&utf8=%E2%9C%93
 https://github.com/SkyOldLee/MVP
 https://github.com/amacou/MVPExample
-https://github.com/indexjincieryi/NDMVPProject
-https://github.com/MChainZhou/MVP/tree/master/MVP/MVP/Main/Presenter
+
 
 ### 插播广告 Model-View-Protocol
 
@@ -64,8 +76,20 @@ https://github.com/MChainZhou/MVP/tree/master/MVP/MVP/Main/Presenter
 	* ReactCocoa 是数据绑定的首选框架
 	* ObjectChain 也可以选择使用，它基于ReactCocoa的思想，在语义层做了可读性优化
 
+4. 其他
+	* 基于KVO的绑定库如 RZDataBinding 和 SwiftBond
+	* 完全的函数响应式编程，比如像ReactiveCocoa、RxSwift或者 PromiseKit
+
 ### View-Interacter-Presenter-Entity-Rooting
 
+1. 职责划分
+	* 交互器 -- 包括关于数据和网络请求的业务逻辑，例如创建一个实体（数据），或者从服务器中获取一些数据。为了实现这些功能，需要使用服务、管理器，但是他们并不被认为是VIPER架构内的模块，而是外部依赖。
+	* 展示器 -- 包含UI层面的业务逻辑以及在交互器层面的方法调用。
+	* 实体 -- 普通的数据对象，不属于数据访问层次，因为数据访问属于交互器的职责。
+	* 路由器 -- 用来连接VIPER的各个模块。
+
+2. 问题
+	* “找到一个适合的方法来实现路由对于iOS应用是一个挑战，MV(X)系列避开了这个问题。”
 	* 参考：
 		1. [使用VIPER构建iOS应用](http://www.cocoachina.com/ios/20140703/9016.html)
 
